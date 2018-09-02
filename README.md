@@ -5,7 +5,7 @@
 
 ### App Walk-though
 
-    <img src="https://imgflip.com/gif/2h1vvh" width=200><br>
+    ![alt text](2h1vvh.gif "App Walkthrough")
 
 
 ### Required User Stories
