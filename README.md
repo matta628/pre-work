@@ -24,11 +24,14 @@
     - [x] d. The keyboard is dismissed after touching the empty space (view).
     
 ### Notes
-    - I do not know why, but the label automatically changes to whatever is typed into the 
+    - I do not know why, but the main label automatically changes to whatever is typed into the 
       textField without the Rename button being pressed
+    - While testing the app, I could not get the keyboard to go away so I decided to add code that dismissed the 
+      keyboard when you touch the view (reset).
     - I had extreme trouble running the simulator, and I never got it to work. Instead, I had to
-      run the app on my phone, which is led to even more complications on how to make the app 
+      run/test the app on my phone. This led to some complications while making the app 
       walkthrough gif.
-    - The button that changes the background view also changes the color of two of the buttons,
-      but I could not get it to change the color of the button that is pressed. I do not know why.
+    - The "Underworld" button that changes the background view also changes the color of two of the other buttons,
+      but I could not get it to change the color of the "Underworld" button and I do not know why.
+    - In an effort to show all of the features in the least time possible, the gif seems slightly rushed.
     
