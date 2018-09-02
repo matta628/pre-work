@@ -5,7 +5,7 @@
 
 ### App Walk-though
 
-    ![alt text](2h1vvh.gif "App Walkthrough")
+![alt text](2h1vvh.gif "App Walkthrough")
 
 
 ### Required User Stories
